@@ -1,6 +1,6 @@
 package.cmsc433.p1.tests;
 
-import static.org.junit.Assert.*;
+import static org.junit.Assert.*;
 import org.junit.Test;
 
 import cmsc433.p1.*;
