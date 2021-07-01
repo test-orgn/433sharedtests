@@ -6,4 +6,3 @@ or create a new file and named class (e.g. "SharedTests.java" with the SharedTes
 
 Then send a pull request with the changes. I'll accept stuff sent over email or opened in issues for now because I 
 want to get as many tests as possible, so I don't want to discourage anyone but that might change. 
-
